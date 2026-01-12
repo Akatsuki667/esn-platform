@@ -1,4 +1,4 @@
-# Configuration Environnement - 12 Janvier 2026
+# Configuration Environnement
 
 Mise à jour système : `sudo apt update && sudo apt upgrade`
 
@@ -85,3 +85,7 @@ Docker Compose version v5.0.1 # Output attendu
 ```
 
 Installation automatique de `Docker Compose` lors de l'instalaltion de `Docker`
+
+---
+
+### Date : 12 Janvier 2026
