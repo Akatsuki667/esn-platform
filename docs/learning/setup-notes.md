@@ -88,4 +88,4 @@ Installation automatique de `Docker Compose` lors de l'instalaltion de `Docker`
 
 ---
 
-### Date : 12 Janvier 2026
+**Date** : 12 Janvier 2026

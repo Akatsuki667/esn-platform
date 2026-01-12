@@ -38,4 +38,4 @@ Conçu avec et pour `TypeScript`(`JavaScript` à __typage statique__)
 
 ---
 
-### Date : 12 Janvier 2026
+**Date** : 12 Janvier 2026

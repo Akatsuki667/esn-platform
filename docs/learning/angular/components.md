@@ -146,4 +146,4 @@ export class UserProfile {
 
 ---
 
-## Date : 12 Janvier 2026
+**Date** : 12 Janvier 2026
