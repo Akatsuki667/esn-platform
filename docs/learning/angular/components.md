@@ -127,4 +127,23 @@ export class UserProfile {
 
 ---
 
+## Convention de nommage
+
+### Sélecteur
+
+- __Kebab-case__ : Minuscule et trait d'union comme séparateur
+- __Préfixe__ : `app-`
+
+### Classe `TypeScript`
+
+- __PascalCase__ : Majuscule à chaque mot
+- __Suffixe__ : `Component`
+
+### Fichiers
+
+- __Kebab-case__
+- __Pattern__ : `nom.component.ts`, `nom.component.html`, `nom.component.css`
+
+---
+
 ## Date : 12 Janvier 2026
